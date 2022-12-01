@@ -1,0 +1,21 @@
+body{
+   background-color:darksalmon;
+   background-image: url(SEO1044-02.jpg);
+   background-size: cover;
+   
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+
+  .gg{
+    color: aqua;
+  }
